@@ -1,7 +1,5 @@
 # mumbaihack24
-Mumbai hack hackathon backend app
-
-Here is the updated README reflecting your specific requirements:
+Mumbai hack hackathon backend app (Nodejs, OLAMA, LLMA 3.0)
 
 ---
 
@@ -73,5 +71,3 @@ Contributions to improve SmartFoodAI are always welcome! Submit a PR or reach ou
 
 ---  
 With SmartFoodAI, we're merging technology and health to create a smarter, healthier future. 🌟  
-
-Let me know if you need further refinements!
